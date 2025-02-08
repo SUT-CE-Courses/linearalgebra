@@ -114,7 +114,7 @@ permalink: /syllabus/
     <tr style="background-color:#e6e6fa">
         <td>1404/02/14</td>
         <td>S20</td>
-        <td rowspan="5">5</td>
+        <td rowspan="7">5</td>
         <td>Eigenvectors and Eigenvalues</td>
     </tr>
     <tr style="background-color:#e6e6fa">
@@ -134,19 +134,16 @@ permalink: /syllabus/
     <tr style="background-color:#e6e6fa">
         <td>1404/02/23</td>
         <td>S23</td>
-        <td></td>
         <td>Diagonalization</td>
     </tr>
     <tr style="background-color:#e6e6fa">
         <td>1404/02/28</td>
         <td>S24</td>
-        <td></td>
         <td>Matrix Factorization</td>
     </tr>    
     <tr style="background-color:#e6e6fa">
         <td>1404/02/30</td>
         <td>S25</td>
-        <td></td>
         <td>SVD</td>
     </tr>
     <tr style="background-color:#b2ffb2">
