@@ -140,7 +140,7 @@ permalink: /syllabus/
         <td>1404/02/28</td>
         <td>S24</td>
         <td>Matrix Factorization</td>
-    </tr>
+    </tr>    
     <tr style="background-color:#e6e6fa">
         <td>1404/02/30</td>
         <td>S25</td>
@@ -162,7 +162,6 @@ permalink: /syllabus/
         <td>1404/03/11</td>
         <td>S28</td>
         <td>Derivatives</td>
-
     </tr>
     <tr style="background-color:#b2ffb2">
         <td>1404/03/13</td>
@@ -256,7 +255,7 @@ TA Classes will be held on Wednesday from 18:00 till 20:00 in room https://vc.sh
     <td>Part4</td>
   </tr>
   <tr style="background-color: #E6B7E0;">
-    <td>1404/02/17</td>
+    <td>1404/02/18</td>
     <td>Midterm</td>
   </tr>
   <tr style="background-color: #FFF3B3">
