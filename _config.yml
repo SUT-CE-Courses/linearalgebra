@@ -35,7 +35,7 @@ dateformat: "%m/%d/%Y"
 future: true
 collections:
     events:
-        output: true
+        output: false
     lectures:
         output: true
     assignments:
