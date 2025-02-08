@@ -144,6 +144,7 @@ permalink: /syllabus/
     <tr style="background-color:#e6e6fa">
         <td>1404/02/30</td>
         <td>S25</td>
+        <td></td>
         <td>SVD</td>
     </tr>
     <tr style="background-color:#b2ffb2">
