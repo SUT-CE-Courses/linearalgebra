@@ -10,6 +10,8 @@ solutions: /static_files/assignments/LA_Fall_2024_HW6-sol.pdf
 #    type: due
 #    date: 1403-07-22T23:59:00+4:30
 #    description: 'HW #1 deadline'
+hide_from_announcments: true
+
 ---
 Norm Space, Derivatives and Hessian , Least squares<br>
 Released On 1403/10/13<br>

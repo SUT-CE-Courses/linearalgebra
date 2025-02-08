@@ -10,7 +10,7 @@ attachment: /static_files/assignments/PR_1.zip
 #    type: due
 #    date: 1403-07-22T23:59:00+4:30
 #    description: 'HW #1 deadline'
-hide_from_announcments: false
+hide_from_announcments: true
 ---
 hide_from_announcments: true
 Three parts consisted of Factorization, SVD, ICA<br>
