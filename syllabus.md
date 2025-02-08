@@ -134,11 +134,13 @@ permalink: /syllabus/
     <tr style="background-color:#e6e6fa">
         <td>1404/02/23</td>
         <td>S23</td>
+        <td></td>
         <td>Diagonalization</td>
     </tr>
     <tr style="background-color:#e6e6fa">
         <td>1404/02/28</td>
         <td>S24</td>
+        <td></td>
         <td>Matrix Factorization</td>
     </tr>    
     <tr style="background-color:#e6e6fa">
