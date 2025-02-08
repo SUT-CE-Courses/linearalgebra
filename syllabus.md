@@ -213,14 +213,10 @@ Quizzes will be held as the following table on **13:00** for half an hour and wi
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 4</td>
-    <td>1404/02/21 13:00-13:30</td>
-  </tr>
-  <tr style="background-color: #B2E0D6;">
-    <td>Quiz 5</td>
     <td>1404/03/06 13:00-13:30</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
-    <td>Quiz 6</td>
+    <td>Quiz 5</td>
     <td>1404/03/13 13:00-13:30</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
