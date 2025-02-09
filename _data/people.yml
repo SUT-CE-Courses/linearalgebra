@@ -1,11 +1,11 @@
 instructors:
   - name: Hamid R. Rabiee
     profile_pic: /_images/pp/rabiee.jpg
-    caption: Full Professor, CE804
+    caption: Distinguished Professor, CE804
     webpage: rabiee@sharif.edu
   - name: Maryam Ramezani
     profile_pic: /_images/pp/ramezani.jpg
-    caption: Lecturer, CE803
+    caption: Ph.D, Lecturer, CE803
     webpage: maryam.ramezani@sharif.edu
 
 teaching_assistants:
@@ -13,53 +13,9 @@ teaching_assistants:
   - name: Shayan Shabani
     profile_pic: /_images/pp/shabani.jpg
     webpage: shayan.shabani5814@gmail.com
-
-  - name: Sadegh Mohammadian
-    profile_pic: /_images/pp/mohammadian.jpg
-    webpage: sadegh803211@gmail.com
-
-  - name: Ali Najar
-    profile_pic: /_images/pp/najar.jpg
-    webpage: Anajar13750@gmail.com
     
-  - name: Aref Zarezade
-    profile_pic: /_images/pp/zarezade.jpg
-    webpage: arefzarezade@gmail.com
-     
-  - name: Shahyan Baghayinejad
-    profile_pic: /_images/pp/baghaie.jpg
-    webpage: ShayanBagha82@gmail.com
-    
-  - name: Radin Shahdaei
-    profile_pic: /_images/pp/shahdaei.jpg
-    webpage: radin.shahdaei@gmail.com
-    
-  - name: Nika Ghaderi
-    profile_pic: /_images/pp/ghaderi.jpg
-    webpage: nika.ghadery@gmail.com
-    
-  - name: Asal Meskin
-    profile_pic: /_images/pp/meskin.jpg
-    webpage: asalmskin82@gmail.com 
-    
-  - name: Armin Khosravi
-    profile_pic: /_images/pp/khosravi.jpg
-    webpage: arminkhosravie@gmail.com
-    
-  - name: Arshia Izadyari
-    profile_pic: /_images/pp/izadyari.jpg
-    webpage: stevevisht@gmail.com
-
-  - name: Alireza Mirrokni
-    profile_pic: /_images/pp/mirrokni.jpg
-    webpage: alireza.mirrokni28@gmail.com
-    
-  - name: Mohammad.H Eslami
+  - name: Amirmahdi Meighani
     profile_pic: /_images/pp/generic.jpg
-    webpage: m20h03e@gmail.com
-    
-  - name: AmirAli Rostami
-    profile_pic: /_images/pp/rostami.jpg
-    webpage: amiralirostami99@gmail.com
+    webpage: amirmm71382@gmail.com
     
   
