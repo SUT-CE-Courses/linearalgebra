@@ -1,0 +1,34 @@
+name: Deploy Branches to GitHub Pages
+
+on:
+  push:
+    branches:
+      - spring_25
+      - fall_24
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.ref }}
+
+      - name: Set Deployment Path
+        id: setpath
+        run: |
+          if [[ "${{ github.ref }}" == "refs/heads/spring_25" ]]; then
+            echo "DEPLOY_PATH=/" >> $GITHUB_ENV
+          elif [[ "${{ github.ref }}" == "refs/heads/fall_24" ]]; then
+            echo "DEPLOY_PATH=fall_24" >> $GITHUB_ENV
+          fi
+
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: .
+          target-folder: ${{ env.DEPLOY_PATH }}
+          clean: false
