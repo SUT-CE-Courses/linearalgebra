@@ -173,7 +173,7 @@ permalink: /syllabus/
     </tr>
 </table>
 
-
+<br>
 
 # Grading Policy
   * Quizes: 6 points (5 quizes each 1.5 points; the lowest score will be dropped)
@@ -223,7 +223,7 @@ Quizzes will be held as the following table on **13:00** for half an hour and wi
   </tr>
 </table>
 
-
+<br>
 
 # Assignments
 Programming assignment submission are not accepted after the solution is released. If you are late, submit what you have and start working on the next assignment. You have free 4 late days for practical assignments. A late day extends the deadline 24 hours. Once you have used all  late days, the penalty is 10% for each additional late day. You can use late days till release of the answer, remember no submition is accepted afterwards.
@@ -266,6 +266,6 @@ TA Classes will be held on Wednesday from 18:00 till 20:00 in room https://vc.sh
     <td>Final</td>
   </tr>
 </table>
-
+<br>
 # Site
 You can find all resources and announsments of course on jabrekh.ir
