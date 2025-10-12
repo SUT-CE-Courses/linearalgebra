@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 1403-07-01T8:00:00+4:30
+date: 2025-10-12T08:00:00+04:30
 title: Introduction
 tldr: "Course's policies and introduction to Syllabus"
 thumbnail: /static_files/presentations/lec0.jpg
