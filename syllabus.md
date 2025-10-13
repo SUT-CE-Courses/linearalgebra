@@ -193,6 +193,9 @@ permalink: /syllabus/
   * Midterm Exam: 6 points (Lectures part 1,2,3,4)
   * Final Exam: 6 points (Lectures part 5,6,7) 
   * Total Points: 21 points
+    
+# Attendance and Participation Policy
+Attendance is optional. Excessive absences will not result in removal from the course. However, consistent class participation and engagement may be rewarded with bonus points toward your final grade.
 
 # Academic Dishonsty Policy
 Any student involved in cheating (provider or receiver) will receive a failing grade along with a report to the University Discipline office. If you don't have the time to help your friend, do not provide them with the answer. You will fail the course! Never, ever show your code or homework to anyone. 
