@@ -210,7 +210,7 @@ Quizzes will be held as the following table on **12:00** for half an hour and wi
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz 1</td>
-    <td>1404/08/06 12:00-12:30</td>
+    <td>1404/08/13 12:00-12:30</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 2</td>
