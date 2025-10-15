@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-10-15T18:00:00+04:30
-title:  Subpace
+title:  Subspace
 tldr: " Subspace, Intersection and Union, Span, Sum and Direct Sum of Subspaces"
 thumbnail: /static_files/presentations/lec2.jpg
 links: 
