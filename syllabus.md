@@ -120,14 +120,14 @@ permalink: /syllabus/
       <td rowspan="3">5</td>
       <td>Matrix Factorization</td>
     </tr>
-    <tr style="background-color:#e6e6fa">
+    <tr style="background-color:#ff6347">
       <td>1404/09/25</td>
+      <td colspan="3" style="text-align:center;">Midterm Exam</td>
+    </tr>
+    <tr style="background-color:#e6e6fa">
+      <td>1404/09/27</td>
       <td>S20</td>
       <td>Singular Values and Singular Vectors</td>
-    </tr>
-    <tr style="background-color:#ff6347">
-      <td>1404/09/27</td>
-      <td colspan="3" style="text-align:center;">Midterm Exam</td>
     </tr>
     <tr style="background-color:#e6e6fa">
       <td>1404/09/30</td>
@@ -222,11 +222,11 @@ Quizzes will be held as the following table on **12:00** for half an hour and wi
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 4</td>
-    <td>1404/09/25 12:00-12:30</td>
+    <td>1404/09/23 12:00-12:30</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Midterm</td>
-    <td>1404/09/27 15:00-18:00</td>
+    <td>1404/09/25 10:30-12:45</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 5</td>
