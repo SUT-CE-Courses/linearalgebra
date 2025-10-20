@@ -117,7 +117,7 @@ permalink: /syllabus/
     <tr style="background-color:#e6e6fa">
       <td>1404/09/23</td>
       <td>S19</td>
-      <td rowspan="3">5</td>
+      <td rowspan="1">5</td>
       <td>Matrix Factorization</td>
     </tr>
     <tr style="background-color:#ff6347">
@@ -127,12 +127,11 @@ permalink: /syllabus/
     <tr style="background-color:#e6e6fa">
       <td>1404/09/27</td>
       <td>S20</td>
+      <td rowspan="1"></td>
       <td>Singular Values and Singular Vectors</td>
     </tr>
     <tr style="background-color:#e6e6fa">
       <td>1404/09/30</td>
-      <td>S21</td>
-      <td></td>
       <td>SVD</td>
     </tr>
 
