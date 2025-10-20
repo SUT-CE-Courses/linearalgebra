@@ -1,8 +1,8 @@
 
-# ---
-# type: assignment
-# date: 1403-12-02T1:00:00+4:30
-# title: HW1
-# pdf: /static_files/assignments/LA_HW1.pdf
-# ---
+ ---
+ type: assignment
+ date: 2025-10-20T23:40:00+4:30
+ title: Theoretical HW1
+ pdf: /static_files/assignments/LA_HW1.pdf
+ ---
 
