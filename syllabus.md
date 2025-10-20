@@ -127,11 +127,12 @@ permalink: /syllabus/
     <tr style="background-color:#e6e6fa">
       <td>1404/09/27</td>
       <td>S20</td>
-      <td rowspan="1"></td>
+      <td rowspan="2"></td>
       <td>Singular Values and Singular Vectors</td>
     </tr>
     <tr style="background-color:#e6e6fa">
       <td>1404/09/30</td>
+      <td>S21</td>
       <td>SVD</td>
     </tr>
 
