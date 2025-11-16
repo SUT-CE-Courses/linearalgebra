@@ -3,7 +3,7 @@ type: taclass
 date: 2025-11-16T8:00:00+4:30
 title: HW2 by Amir Mohammad Sharbati
 tldr: "Linear Independece, Bases, Dimensions, and Matrix Rank"
-thumbnail: /static_files/taclass/lec5.jpg
+thumbnail: /static_files/presentations/lec5.jpg
 links: 
 #    - url: "https://drive.google.com/drive/folders/1s5Rx4KNM7QSp9VBmMgMG1s5NbhRPCQ3q?usp=sharing"
 #     name: Solution
