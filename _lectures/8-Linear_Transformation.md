@@ -2,7 +2,7 @@
 type: lecture
 date: 2025-11-16T20:00:00+04:30
 title:  Linear Transformation
-tldr: "Linear Map, Rotation, Projection, Reflection, Non-Linear Maps, Onto and One-to-One Transformation, Fundamental Theorem of Linear Map, Invertible Linear Maps, and Isomorphic"
+tldr: "Linear Map, Rotation, Projection, Reflection, Non-Linear Maps, Onto and One-to-One Transformation, Fundamental Theorem of Linear Maps, Invertible Linear Maps, and Isomorphic"
 thumbnail: /static_files/presentations/lec8.jpg
 links: 
     - url: /static_files/presentations/8-Linear Transformation.pdf
