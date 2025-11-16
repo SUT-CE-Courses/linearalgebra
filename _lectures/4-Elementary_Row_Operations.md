@@ -7,6 +7,8 @@ thumbnail: /static_files/presentations/lec3.png
 links: 
     - url: /static_files/presentations/3-Elementary Row Operations.pdf
       name: slides
+    - url: https://sut-ce-courses.github.io/LA_Spring_2025/static_files/books/RowReduce-Haffman.pdf
+      name: RowReduce-Haffman
 hide_from_announcments: false
 
 ---
