@@ -3,7 +3,7 @@ type: lecture
 date: 2025-11-20T00:30:00+04:30
 title:  Change of Basis
 tldr: "Invertible Linear Maps, and Change of Basis"
-thumbnail: /static_files/presentations/lec9.jpg
+thumbnail: /static_files/presentations/lec9.JPG
 links: 
     - url: /static_files/presentations/9-Change of Basis.pdf
       name: slides
