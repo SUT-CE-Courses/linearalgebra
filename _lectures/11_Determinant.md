@@ -7,5 +7,7 @@ thumbnail: /static_files/presentations/lec11.jpg
 links: 
     - url: /static_files/presentations/11-Determinant.pdf
       name: slides
+    - url: /static_files/presentations/Compressed Det.pdf
+      name: compressed
 hide_from_announcments: false
 ---
