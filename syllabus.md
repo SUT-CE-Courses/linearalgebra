@@ -99,65 +99,65 @@ permalink: /syllabus/
     <tr style="background-color:#ffebcd">
         <td>1404/09/11</td>
         <td>S16</td>
-        <td rowspan="3">4</td>
-        <td>Eigenvectors, Eigenvalues, Similarity & Diagonalization</td>
+        <td rowspan="4">4</td>
+        <td>Eigenvectors, Eigenvalues</td>
     </tr>
     <tr style="background-color:#ffebcd">
         <td>1404/09/16</td>
         <td>S17</td>
-        <td>Eigenvectors, Eigenvalues, Similarity & Diagonalization</td>
+        <td>Similarity & Diagonalization</td>
     </tr>
     <tr style="background-color:#ffebcd">
         <td>1404/09/18</td>
         <td>S18</td>
+        <td>Orthogonality (Gram–Schmidt, etc.)</td>
+    </tr>
+    <tr style="background-color:#ffebcd">
+        <td>1404/09/23</td>
+        <td>S19</td>
         <td>Symmetric Matrices and Quadratic Forms</td>
     </tr>
 
     <!-- Part 5 -->
     <tr style="background-color:#e6e6fa">
-      <td>1404/09/23</td>
-      <td>S19</td>
-      <td rowspan="1">5</td>
-      <td>Matrix Factorization</td>
-    </tr>
-    <tr style="background-color:#ff6347">
       <td>1404/09/25</td>
-      <td colspan="3" style="text-align:center;">Midterm Exam</td>
-    </tr>
-    <tr style="background-color:#e6e6fa">
-      <td>1404/09/27</td>
       <td>S20</td>
-      <td rowspan="2"></td>
-      <td>Singular Values and Singular Vectors</td>
+      <td rowspan="2">5</td>
+      <td>Matrix Factorization</td>
     </tr>
     <tr style="background-color:#e6e6fa">
       <td>1404/09/30</td>
       <td>S21</td>
+      <td>Singular Values and Singular Vectors</td>
+    </tr>
+    <tr style="background-color:#ff6347">
+      <td>1404/10/02</td>
+      <td colspan="3" style="text-align:center;">Midterm Exam</td>
+    </tr>
+    <tr style="background-color:#e6e6fa">
+      <td>1404/09/04</td>
+      <td>S22</td>
+      <td rowspan="1"></td>
       <td>SVD</td>
     </tr>
 
 
     <!-- Part 6 -->
     <tr style="background-color:#b2ffb2">
-        <td>1404/10/02</td>
-        <td>S22</td>
-        <td rowspan="4">6</td>
-        <td>Inner Product Space</td>
-    </tr>
-    <tr style="background-color:#b2ffb2">
         <td>1404/10/07</td>
         <td>S23</td>
+        <td rowspan="3">6</td>
         <td>Inner Product Space</td>
     </tr>
     <tr style="background-color:#b2ffb2">
         <td>1404/10/09</td>
         <td>S24</td>
-        <td>Inequalities and Orthogonality</td>
+        <td>Inner Product Space</td>
     </tr>
     <tr style="background-color:#b2ffb2">
         <td>1404/10/14</td>
         <td>S25</td>
-        <td>Orthogonality (Gram–Schmidt, etc.)</td>
+        <td>Inequalities</td>
     </tr>
 
     <!-- Part 7 -->
