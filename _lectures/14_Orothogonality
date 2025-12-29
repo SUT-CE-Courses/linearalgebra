@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-12-29T10:30:00+04:30
-title:  14_Orothogonality
+title:  Orothogonality
 tldr: "Orhogonality, Gram-Schmidt Algorithm, Orothogonal Complements"
 thumbnail: /static_files/presentations/lec14.jpg
 links: 
