@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2025-12-29T10:40:00+04:30
-title:  15_Symmetric Matrices and Quadratic Forms
+title:  Symmetric Matrices and Quadratic Forms
 tldr: "Symmetric Matrix, Quadratic Form, Positive Definite Tests, Gram Matrix"
 thumbnail: /static_files/presentations/lec15.jpg
 links: 
