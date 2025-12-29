@@ -5,7 +5,7 @@ title:  Orthogonality
 tldr: "Orthogonality, Gram-Schmidt Algorithm, Orothogonal Complements"
 thumbnail: /static_files/presentations/lec14.jpg
 links: 
-    - url: /static_files/presentations/14_Orthogonality.pdf
+    - url: /static_files/presentations/14-Orthogonality.pdf
       name: slides
 hide_from_announcments: false
 ---
