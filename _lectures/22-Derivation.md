@@ -3,7 +3,7 @@ type: lecture
 date: 2026-01-06T8:00:07+4:30
 title: Derivation
 tldr: "Derivation"
-thumbnail: /static_files/presentations/lec12.png
+thumbnail: /static_files/presentations/lec22.JPG
 links: 
     - url: /static_files/presentations/22-Derivation.pdf
       name: slides
