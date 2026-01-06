@@ -3,7 +3,7 @@ type: lecture
 date: 2026-01-02T16:00:00+04:30
 title:  SVD
 tldr: "Eigenvalue, Eigenvector, and Characteristic Polynomial"
-thumbnail: /static_files/presentations/lec12.jpg
+thumbnail: /static_files/presentations/lec18.JPG
 links: 
     - url: /static_files/presentations/18-SVD.pdf
       name: slides
