@@ -16,49 +16,50 @@ permalink: /syllabus/
     <tr style="background-color:#ffffe0">
         <td>1405/07/05</td>
         <td>S01</td>
-        <td rowspan="4">1</td>
-        <td>Introduction, Linear Equations</td>
+        <td rowspan="5">1</td>
+        <td>Introduction</td>
     </tr>
     <tr style="background-color:#ffffe0">
         <td>1405/07/07</td>
         <td>S02</td>
-        <td>Row Reduction, Echelon Forms and LU Factorization</td>
+        <td>Linear Equations, Row Reduction</td>
     </tr>
     <tr style="background-color:#ffffe0">
         <td>1405/07/12</td>
         <td>S03</td>
-        <td>Vector Space</td>
+        <td>Echelon Forms and LU Factorization</td>
     </tr>
     <tr style="background-color:#ffffe0">
         <td>1405/07/14</td>
         <td>S04</td>
+        <td>Vector Space</td>
+    </tr>
+    <tr style="background-color:#ffffe0">
+        <td>1405/07/19</td>
+        <td>S05</td>
         <td>Subspace</td>
     </tr>
 
     <!-- Part 2 -->
     <tr style="background-color:#add8e6">
-        <td>1405/07/19</td>
-        <td>S05</td>
-        <td rowspan="5">2</td>
-        <td rowspan="2">Linear Independence</td>
-    </tr>
-    <tr style="background-color:#add8e6">
         <td>1405/07/21</td>
         <td>S06</td>
+        <td rowspan="4">2</td>
+        <td rowspan="2">Linear Independence</td>
     </tr>
     <tr style="background-color:#add8e6">
         <td>1405/07/26</td>
         <td>S07</td>
-        <td>Bases, Dimension</td>
     </tr>
     <tr style="background-color:#add8e6">
         <td>1405/07/28</td>
         <td>S08</td>
-        <td rowspan="2">Matrix Rank</td>
+        <td>Bases, Dimension</td>
     </tr>
     <tr style="background-color:#add8e6">
         <td>1405/08/03</td>
         <td>S09</td>
+        <td rowspan="2">Matrix Rank</td>
     </tr>
 
     <!-- Part 3 -->
@@ -66,21 +67,20 @@ permalink: /syllabus/
         <td>1405/08/05</td>
         <td>S10</td>
         <td rowspan="4">3</td>
-        <td rowspan="2">Linear Transformation</td>
     </tr>
     <tr style="background-color:#ffcccb">
         <td>1405/08/10</td>
         <td>S11</td>
+        <td rowspan="2">Linear Transformation</td>
     </tr>
     <tr style="background-color:#ffcccb">
         <td>1405/08/12</td>
         <td>S12</td>
-        <td>Change Basis</td>
     </tr>
     <tr style="background-color:#ffcccb">
         <td>1405/08/17</td>
         <td>S13</td>
-        <td>Inverse</td>
+        <td>Change Basis</td>
     </tr>
 
     <!-- Part 4 -->
@@ -88,16 +88,16 @@ permalink: /syllabus/
         <td>1405/08/19</td>
         <td>S14</td>
         <td rowspan="3">4</td>
-        <td rowspan="2">Inner Product Space and Norm2</td>
+        <td>Inverse</td>
     </tr>
     <tr style="background-color:#ffebcd">
         <td>1405/08/24</td>
         <td>S15</td>
+        <td rowspan="2">Inner Product Space and Norm2</td>
     </tr>
     <tr style="background-color:#ffebcd">
         <td>1405/08/26</td>
         <td>S16</td>
-        <td>Orthogonality (Gram–Schmidt, QR , etc.)</td>
     </tr>
 
     <!-- Part 5 -->
@@ -105,21 +105,21 @@ permalink: /syllabus/
         <td>1405/09/01</td>
         <td>S17</td>
         <td rowspan="4">5</td>
-        <td rowspan="2">Determinant</td>
+        <td>Orthogonality (Gram–Schmidt, QR , etc.)</td>
     </tr>
     <tr style="background-color:#e6e6fa">
         <td>1405/09/03</td>
         <td>S18</td>
+        <td rowspan="2">Determinant</td>
     </tr>
     <tr style="background-color:#e6e6fa">
         <td>1405/09/08</td>
         <td>S19</td>
-        <td>Eigenvectors and Eigenvalues</td>
     </tr>
     <tr style="background-color:#e6e6fa">
         <td>1405/09/10</td>
         <td>S20</td>
-        <td>Similarity & Diagonalization</td>
+        <td>Eigenvectors and Eigenvalues</td>
     </tr>
 
     <!-- Part 6 (First Half) -->
@@ -127,12 +127,12 @@ permalink: /syllabus/
         <td>1405/09/15</td>
         <td>S21</td>
         <td rowspan="2">6</td>
-        <td>Symmetric Matrices and Quadratic Forms</td>
+        <td>Similarity & Diagonalization</td>
     </tr>
     <tr style="background-color:#b2ffb2">
         <td>1405/09/17</td>
         <td>S22</td>
-        <td>Matrix Factorization</td>
+        <td>Symmetric Matrices and Quadratic Forms</td>
     </tr>
 
     <!-- Midterm Exam -->
@@ -146,37 +146,42 @@ permalink: /syllabus/
         <td>1405/09/22</td>
         <td>S23</td>
         <td rowspan="3">6</td>
-        <td>Singular Values and Singular Vectors</td>
+        <td>Matrix Factorization</td>
     </tr>
     <tr style="background-color:#b2ffb2">
         <td>1405/09/24</td>
         <td>S24</td>
-        <td rowspan="2">SVD</td>
+        <td>Singular Values and Singular Vectors</td>
     </tr>
     <tr style="background-color:#b2ffb2">
         <td>1405/09/29</td>
         <td>S25</td>
+        <td rowspan="2">SVD</td>
     </tr>
 
     <!-- Part 7 -->
     <tr style="background-color:#d1ffd1">
         <td>1405/10/01</td>
         <td>S26</td>
-        <td rowspan="4">7</td>
-        <td>Norm Space</td>
+        <td rowspan="5">7</td>
     </tr>
     <tr style="background-color:#d1ffd1">
         <td>1405/10/06</td>
         <td>S27</td>
-        <td rowspan="2">Vector and Matrix Derivatives</td>
+        <td>Norm Space</td>
     </tr>
     <tr style="background-color:#d1ffd1">
         <td>1405/10/08</td>
         <td>S28</td>
+        <td rowspan="2">Vector and Matrix Derivatives</td>
     </tr>
     <tr style="background-color:#d1ffd1">
         <td>1405/10/13</td>
         <td>S29</td>
+    </tr>
+    <tr style="background-color:#d1ffd1">
+        <td>1405/10/15</td>
+        <td>S30</td>
         <td>Least squares</td>
     </tr>
 
@@ -277,7 +282,7 @@ Quizzes and exams will be held according to the following schedule:
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>T6</td>
-    <td>1405/09/01</td>
+    <td>1405/10/01</td>
     <td>1405/10/13</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
