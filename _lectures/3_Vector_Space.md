@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2026-10-4T23:00:00+03:30
+date: 2026-10-6T23:00:00+03:30
 title: Vector Space
 tldr: "Field, Vector Space, Linear Combination, Span-Linear Hull"
 thumbnail: /static_files/presentations/lec3.jpg
