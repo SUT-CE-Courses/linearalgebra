@@ -213,15 +213,15 @@ Quizzes and exams will be held according to the following schedule:
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz 1</td>
-    <td>26 Mehr</td>
+    <td>3 Aban</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 2</td>
-    <td>12 Aban</td>
+    <td>19 Aban</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz 3</td>
-    <td>26 Aban</td>
+    <td>3 Azar</td>
   </tr>
   <tr style="background-color: #FF6347; color: white; font-weight: bold;">
     <td>Midterm</td>
@@ -229,11 +229,11 @@ Quizzes and exams will be held according to the following schedule:
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 4</td>
-    <td>29 Azar</td>
+    <td>1 Dey</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz 5</td>
-    <td>13 Dey</td>
+    <td>15 Dey</td>
   </tr>
   <tr style="background-color: #FF6347; color: white; font-weight: bold;">
     <td>Final</td>
@@ -252,38 +252,38 @@ Quizzes and exams will be held according to the following schedule:
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>T1</td>
-    <td>1405/07/15</td>
-    <td>1405/07/24</td>
+    <td>1405/07/19</td>
+    <td>1405/07/28</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>T2</td>
-    <td>1405/08/03</td>
-    <td>1405/08/10</td>
+    <td>1405/08/05</td>
+    <td>1405/08/17</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>T3</td>
-    <td>1405/08/17</td>
-    <td>1405/08/28</td>
+    <td>1405/08/19</td>
+    <td>1405/09/01</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>T4</td>
-    <td>1405/08/27</td>
-    <td>1405/09/08</td>
+    <td>1405/09/01</td>
+    <td>1405/09/10</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>T5</td>
-    <td>1405/09/11</td>
-    <td>1405/09/26</td>
+    <td>1405/09/15</td>
+    <td>1405/09/29</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>T6</td>
-    <td>1405/09/29</td>
-    <td>1405/10/10</td>
+    <td>1405/09/01</td>
+    <td>1405/10/13</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>T7</td>
-    <td>1405/10/13</td>
-    <td>1405/10/23</td>
+    <td>1405/10/15</td>
+    <td>1405/10/25</td>
   </tr>
 </table>
 
