@@ -301,11 +301,11 @@ Quizzes and exams will be held according to the following schedule:
     <th>Title</th>
   </tr>
   <tr style="background-color: #FFB2A6;">
-    <td>21 Mehr</td>
+    <td>28 Mehr</td>
     <td>Quiz1</td>
   </tr>
   <tr style="background-color: #B2E0D6;">
-    <td>10 Aban</td>
+    <td>12 Aban</td>
     <td>Quiz2</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
@@ -321,7 +321,7 @@ Quizzes and exams will be held according to the following schedule:
     <td>Quiz4</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
-    <td>6 Dey</td>
+    <td>8 Dey</td>
     <td>Quiz5</td>
   </tr>
   <tr style="background-color: #FF6347; color: white; font-weight: bold;">
