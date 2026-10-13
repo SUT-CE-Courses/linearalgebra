@@ -7,5 +7,5 @@ thumbnail: /static_files/presentations/lec0.jpg
 links:
   - url: /static_files/presentations/0-Introduction.pdf
     name: slides
-hide_from_announcments: false
+hide_from_announcments: true
 ---
