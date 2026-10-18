@@ -5,7 +5,7 @@ title:  Bases and Dimension
 tldr: "Bases and Dimension"
 thumbnail: /static_files/presentations/lec6.jpg
 links: 
-    - url: /static_files/presentations/5-Bases and Dimension.pdf
+    - url: /static_files/presentations/6-Bases and Dimension.pdf
       name: slides
 hide_from_announcments: false
 
