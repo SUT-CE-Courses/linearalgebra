@@ -44,65 +44,65 @@ permalink: /syllabus/
     <tr style="background-color:#add8e6">
         <td>1405/07/21</td>
         <td>S06</td>
-        <td rowspan="5">2</td>
-        <td rowspan="2">Linear Independence</td>
+        <td rowspan="4">2</td>
+        <td>Linear Independence</td>
     </tr>
     <tr style="background-color:#add8e6">
         <td>1405/07/26</td>
         <td>S07</td>
+        <td>Bases, Dimension</td>
     </tr>
     <tr style="background-color:#add8e6">
         <td>1405/07/28</td>
         <td>S08</td>
-        <td>Bases, Dimension</td>
+        <td rowspan="2">Matrix Rank</td>
     </tr>
     <tr style="background-color:#add8e6">
         <td>1405/08/03</td>
         <td>S09</td>
-        <td rowspan="2">Matrix Rank</td>
-    </tr>
-    <tr style="background-color:#add8e6">
-        <td>1405/08/05</td>
-        <td>S10</td>
     </tr>
 
     <!-- Part 3 -->
     <tr style="background-color:#ffcccb">
+        <td>1405/08/05</td>
+        <td>S10</td>
+        <td rowspan="3">3</td>
+        <td rowspan="2">Inner Product Space and Norm2</td>
+    </tr>
+    <tr style="background-color:#ffcccb">
         <td>1405/08/10</td>
         <td>S11</td>
-        <td rowspan="4">3</td>
-        <td rowspan="2">Linear Transformation</td>
     </tr>
     <tr style="background-color:#ffcccb">
         <td>1405/08/12</td>
         <td>S12</td>
-    </tr>
-    <tr style="background-color:#ffcccb">
-        <td>1405/08/17</td>
-        <td>S13</td>
-        <td>Change Basis</td>
-    </tr>
-    <tr style="background-color:#ffcccb">
-        <td>1405/08/19</td>
-        <td>S14</td>
-        <td>Inverse</td>
+        <td>Orthogonality (Gram–Schmidt, QR , etc.)</td>
     </tr>
 
     <!-- Part 4 -->
     <tr style="background-color:#ffebcd">
+        <td>1405/08/17</td>
+        <td>S13</td>
+        <td rowspan="5">4</td>
+        <td rowspan="2">Linear Transformation</td>
+    </tr>
+    <tr style="background-color:#ffebcd">
+        <td>1405/08/19</td>
+        <td>S14</td>
+    </tr>
+    <tr style="background-color:#ffebcd">
         <td>1405/08/24</td>
         <td>S15</td>
-        <td rowspan="3">4</td>
-        <td rowspan="2">Inner Product Space and Norm2</td>
+        <td>Change Basis</td>
     </tr>
     <tr style="background-color:#ffebcd">
         <td>1405/08/26</td>
         <td>S16</td>
+        <td rowspan="2">Inverse</td>
     </tr>
     <tr style="background-color:#ffebcd">
         <td>1405/09/01</td>
         <td>S17</td>
-        <td>Orthogonality (Gram–Schmidt, QR , etc.)</td>
     </tr>
 
     <!-- Part 5 -->
@@ -283,7 +283,7 @@ Quizzes and exams will be held according to the following schedule:
   <tr style="background-color: #B2E0D6;">
     <td>T6</td>
     <td>1405/10/01</td>
-    <td>1405/10/15</td>
+    <td>1405/10/13</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>T7</td>
