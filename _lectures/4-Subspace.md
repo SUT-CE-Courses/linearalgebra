@@ -7,6 +7,6 @@ thumbnail: /static_files/presentations/lec4.jpg
 links: 
     - url: /static_files/presentations/4-Subspace.pdf
       name: slides
-hide_from_announcments: false
+hide_from_announcments: true
 
 ---
