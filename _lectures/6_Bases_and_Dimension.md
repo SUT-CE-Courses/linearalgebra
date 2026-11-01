@@ -7,6 +7,6 @@ thumbnail: /static_files/presentations/lec6.jpg
 links: 
     - url: /static_files/presentations/6-Bases and Dimension.pdf
       name: slides
-hide_from_announcments: false
+hide_from_announcments: true
 
 ---

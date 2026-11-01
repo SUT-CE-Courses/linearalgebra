@@ -11,6 +11,6 @@ links:
   #   name: Solutions
   # - url: "https://drive.google.com/..."
   #   name: Video
-hide_from_announcments: false
+hide_from_announcments: true
 ---
 

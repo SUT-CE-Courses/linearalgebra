@@ -7,6 +7,6 @@ thumbnail: /static_files/presentations/lec7.jpg
 links: 
     - url: /static_files/presentations/7-Matrix Rank.pdf
       name: slides
-hide_from_announcments: false
+hide_from_announcments: true
 
 ---
