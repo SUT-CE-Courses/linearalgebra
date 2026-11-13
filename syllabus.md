@@ -138,7 +138,7 @@ permalink: /syllabus/
     <!-- Midterm Exam -->
     <tr style="background-color:#ff6347; color: white; font-weight: bold;">
         <td>1405/09/19</td>
-        <td colspan="3">Midterm Exam - 10 AM</td>
+        <td colspan="3">Midterm Exam - 9 AM</td>
     </tr>
 
     <!-- Part 6 (Second Half) -->
@@ -222,7 +222,7 @@ Quizzes and exams will be held according to the following schedule:
   </tr>
   <tr style="background-color: #B2E0D6;">
     <td>Quiz 2</td>
-    <td>19 Aban</td>
+    <td>24 Aban</td>
   </tr>
   <tr style="background-color: #FFB2A6;">
     <td>Quiz 3</td>
