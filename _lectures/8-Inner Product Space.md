@@ -7,5 +7,5 @@ thumbnail: /static_files/presentations/lec8.JPG
 links: 
     - url: /static_files/presentations/8-Inner Product Space.pdf
       name: slides
-hide_from_announcments: false
+hide_from_announcments: true
 ---

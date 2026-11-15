@@ -7,5 +7,5 @@ thumbnail: /static_files/presentations/lec10.jpg
 links: 
     - url: /static_files/presentations/10-Inverse.pdf
       name: slides
-hide_from_announcments: false
+hide_from_announcments: true
 ---
